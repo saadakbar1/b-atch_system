@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "clash-display";
+  src: url("../fonts/ClashDisplay/Fonts/TTF/ClashDisplay-Variable.ttf");
+}
+
+*{
+  font-family: "clash-display";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn{
+  border-radius: 0.2rem !important;
+}
+
+.text_black{
+  color: #000;
+}
+.section_title{
+  color: #FF5555;
+  font-size: 1.5rem;
+}
+.section_heading{
+  color: #000;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
